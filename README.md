@@ -1,12 +1,12 @@
-# 🧠 AI-Powered SQL Chatbot (LangChain + GPT-4)
+# AI-Powered SQL Chatbot (LangChain + GPT-4)
 
-## 📌 Introduction
+## Introduction
 
 This project is a SQL chatbot built with LangChain and GPT-4 that allows users to ask natural language questions about a SQLite database. It automatically generates and executes SQL queries, then returns both the raw table results and a human-readable explanation.
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. **User Input**  
    ➜ Ask a question in plain English.
@@ -28,7 +28,7 @@ This project is a SQL chatbot built with LangChain and GPT-4 that allows users t
 
 ---
 
-## 📦 Required Libraries
+## Required Libraries
 
 ```bash
 pip install langchain-core langchain-community langchain-openai openai python-dotenv pandas
